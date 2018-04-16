@@ -1,0 +1,11 @@
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\bin\Debug\MadLib Game Gen.exe.config
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\bin\Debug\MadLib Game Gen.exe
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\bin\Debug\MadLib Game Gen.pdb
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\obj\Debug\MadLib Game Gen.csprojResolveAssemblyReference.cache
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\obj\Debug\MadLib_Game_Gen.inputForm.resources
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\obj\Debug\MadLib_Game_Gen.Properties.Resources.resources
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\obj\Debug\MadLib Game Gen.csproj.GenerateResource.Cache
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\obj\Debug\MadLib Game Gen.exe
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\obj\Debug\MadLib Game Gen.pdb
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\obj\Debug\MadLib_Game_Gen.excusedCardForm.resources
+C:\Users\Ultimus Anima\Documents\Visual Studio 2017\Projects\Student Tasks\MadLib Game Gen\MadLib Game Gen\obj\Debug\MadLib_Game_Gen.HallPassCardForm.resources
